@@ -3,4 +3,4 @@ Repository for January 19, 2022 "Introduction to CONDA" Workshop by Jill Rumore
 
 Workshop guides by Jill Rumore (jillian.rumore@phac-aspc.gc.ca)
 
-Introduction to CONDA workshop (January 19, 2022) video is now available on YouTube for you to watch here: https://www.youtube.com/watch?v=r-wmmhjHFJ4
+Workshop lecture (January 19, 2022) video is now available on YouTube at https://www.youtube.com/watch?v=r-wmmhjHFJ4
